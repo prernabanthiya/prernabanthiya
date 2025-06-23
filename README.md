@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Prerna Banthiya and I'm a final-year B.Tech Data Science student from India.</h2>
+<h2 align="left">Hi 👋! My name is Prerna Banthiya and I'm a final-year B.Tech Data Science student from Ramdeobaba University.</h2>
 
 <ul>
   <li>🔍 Passionate about data analytics, machine learning, and generative AI</li>
