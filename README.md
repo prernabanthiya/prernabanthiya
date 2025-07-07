@@ -15,8 +15,8 @@
   <a href="https://github.com/prernabanthiya/PCAP-Analyzer-AI-Powered-Network-Issue-Detection-for-Trading-Systems" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=prernabanthiya&repo=PCAP-Analyzer-AI-Powered-Network-Issue-Detection-for-Trading-Systems&theme=dracula" />
   </a>
-  <a href="https://github.com/prernabanthiya/CausalInsights-Marketing-Campaign-Optimizer" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=prernabanthiya&repo=CausalInsights-Marketing-Campaign-Optimizer&theme=dracula" />
+  <a href="https://github.com/prernabanthiya/Instacart-Market-Basket-Analysis" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=prernabanthiya&repo=Instacart-Market-Basket-Analysis&theme=dracula" />
   </a>
 </div>
 
